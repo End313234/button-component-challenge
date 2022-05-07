@@ -1,0 +1,10 @@
+{
+	"root": true,
+	"extends": [
+		"@techmmunity/eslint-config/common",
+		"@techmmunity/eslint-config/ts-react"
+	],
+	"rules": {
+		"import/no-default-export": "off"
+	}
+}
