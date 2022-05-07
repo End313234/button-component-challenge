@@ -9,6 +9,17 @@
     transition: 0.25s ease-out;
     border: none;
     padding: 10px;
+
+    &:hover,
+    &:focus {
+        background-color: #AEAEAE;
+    }
+
+    &:disabled {
+        color: #9E9E9E;
+        background-color: #E0E0E0;
+        box-shadow: none;
+    }
 }
 
 .default-button {

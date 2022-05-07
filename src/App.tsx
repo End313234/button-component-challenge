@@ -1,7 +1,7 @@
 import { CustomizableButton } from "./web/components/customizable-button";
 
 const App = () => {
-	return <CustomizableButton disabled />;
+	return <CustomizableButton />;
 };
 
 export default App;
