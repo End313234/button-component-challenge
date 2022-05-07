@@ -2,6 +2,7 @@
 
 .button {
     display: flex;
+    align-self: flex-start;
     gap: .3rem;
     border-radius: 6px;
     font-family: "Ubuntu";
