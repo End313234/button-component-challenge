@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/button-component-challenge/static/css/main.6cf9dce9.css",
-    "main.js": "/button-component-challenge/static/js/main.4ae49646.js",
+    "main.css": "/button-component-challenge/static/css/main.5d6998dd.css",
+    "main.js": "/button-component-challenge/static/js/main.2f6f92dd.js",
     "index.html": "/button-component-challenge/index.html",
-    "main.6cf9dce9.css.map": "/button-component-challenge/static/css/main.6cf9dce9.css.map",
-    "main.4ae49646.js.map": "/button-component-challenge/static/js/main.4ae49646.js.map"
+    "main.5d6998dd.css.map": "/button-component-challenge/static/css/main.5d6998dd.css.map",
+    "main.2f6f92dd.js.map": "/button-component-challenge/static/js/main.2f6f92dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cf9dce9.css",
-    "static/js/main.4ae49646.js"
+    "static/css/main.5d6998dd.css",
+    "static/js/main.2f6f92dd.js"
   ]
 }
